@@ -3,6 +3,8 @@ StatusBar
 
 > The `StatusBar` object provides some functions to customize the iOS StatusBar.
 
+Customized from https://github.com/apache/cordova-labs/tree/plugins/statusbar
+
 Methods
 -------
 
